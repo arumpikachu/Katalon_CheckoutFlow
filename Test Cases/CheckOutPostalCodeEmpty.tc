@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CheckOutPostalCodeEmpty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>21ad0c78-260c-4d22-b601-57cf8fc1e87a</testCaseGuid>
+</TestCaseEntity>
